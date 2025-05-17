@@ -7,7 +7,7 @@
 
 ### Introdução
 
-O **Luis Travel** é um aplicativo inteligente que cria roteiros de viagem personalizados de forma automática e instantânea. Basta responder a algumas perguntas simples — como destino, datas, orçamento e preferências — e o sistema entrega um planejamento completo e pronto para uso, com clima, câmbio, passagens, hospedagem econômica, roteiro diário com links do Google Maps e checklist de documentos exigidos para a viagem.
+O **Luis Travel** é um aplicativo inteligente que cria roteiros de viagem personalizados de forma automática e instantânea. Basta responder a algumas perguntas simples — como destino, datas, orçamento e preferências — e o sistema entrega um planejamento completo e pronto para uso, com clima, câmbio, passagens, hospedagem econômica, roteiro diário e checklist de documentos exigidos para a viagem.
 
 > 🎯 **Problema resolvido:** planejar uma viagem costuma ser demorado e confuso. O Luis Travel centraliza tudo em um único assistente com respostas rápidas e confiáveis.
 >
