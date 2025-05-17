@@ -1,4 +1,7 @@
 # Luis Travel
+<p align="center">
+    <img alt="Tela 1" src="images/logo.png" width="20%">
+</p>
 
 ## ✈️ "Seu roteiro ideal, gerado em minutos"
 
